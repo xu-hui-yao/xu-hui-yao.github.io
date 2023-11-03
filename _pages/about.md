@@ -12,4 +12,4 @@ I'm a senior student from [Zhejiang University](https://www.zju.edu.cn/). My res
 
 My tutor is [Prof. ZOU](https://person.zju.edu.cn/changqingzou) of CAD&CG Lab from Zhejiang University.
 
-My email is [Email](xuhuiyao20021203@163.com).
+My email is [xuhuiyao20021203@163.com](xuhuiyao20021203@163.com).
